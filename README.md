@@ -65,6 +65,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunomnsilva&show_icons=true&hide_border=true&count_private=false" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomnsilva&layout=compact&hide_border=true" alt="Top languages" height="165" />
+  <a href="https://github.com/brunomnsilva?tab=followers"><img src="https://img.shields.io/github/followers/brunomnsilva?style=for-the-badge&logo=github&label=Followers&color=2f80ed" alt="Followers" /></a>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbrunomnsilva&query=public_repos&label=Public%20Repos&logo=github&style=for-the-badge&color=2f80ed" alt="Public repositories" />
+  <img src="https://img.shields.io/github/stars/brunomnsilva/JavaFXSmartGraph?style=for-the-badge&logo=github&label=JavaFXSmartGraph&color=f5b301" alt="JavaFXSmartGraph stars" />
 </p>
