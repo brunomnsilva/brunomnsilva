@@ -16,23 +16,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
-## Omarchy
-
-Tools and plugins for [Omarchy](https://omarchy.org), the Arch Linux + Hyprland
-desktop.
-
-### Flea plugins
-
-| Plugin | Description |
-| --- | --- |
-| **[Omarchy Tools](https://github.com/brunomnsilva/flea-omarchy-tools)** | Adds **Transcode** to Flea's context menu for images and videos, powered by Omarchy's `omarchy-transcode` and floating terminal. |
-| **[Open In IDE](https://github.com/brunomnsilva/flea-omarchy-open-in-ide)** | Opens selected files and folders in an installed IDE — VS Code, IntelliJ IDEA, or any app that registers the `IDE` category — through Omarchy's native picker. |
-
-### Other Omarchy projects
-
-- **[omarchy-power-manager](https://github.com/brunomnsilva/omarchy-power-manager)** — Power management and battery controller plugin with smart thresholds, dynamic profile switching and lock-screen integration.
-- **[yt-dlp-firefox](https://github.com/brunomnsilva/yt-dlp-firefox)** — Firefox port of Omarchy's yt-dlp Download Video extension.
-
 ## Featured Projects
 
 | Project | Description |
@@ -61,6 +44,23 @@ desktop.
 - **[docker-python-pandoc](https://github.com/brunomnsilva/docker-python-pandoc)** — Pandoc + LaTeX image with Python pandocfilters and European Portuguese (pt-PT) babel/hyphenation support.
 - **[docker-python-thor](https://github.com/brunomnsilva/docker-python-thor)** — Python image for VS Code Dev Containers, tailored to the THOR timetable workflow.
 - **[docker-atad](https://github.com/brunomnsilva/docker-atad)** — C development image (gcc, gdb, make, valgrind, doxygen) with a non-root user and Dev Container support.
+
+## Omarchy
+
+Tools and plugins for [Omarchy](https://omarchy.org), the Arch Linux + Hyprland
+desktop.
+
+### Flea plugins
+
+| Plugin | Description |
+| --- | --- |
+| **[Omarchy Tools](https://github.com/brunomnsilva/flea-omarchy-tools)** | Adds **Transcode** to Flea's context menu for images and videos, powered by Omarchy's `omarchy-transcode` and floating terminal. |
+| **[Open In IDE](https://github.com/brunomnsilva/flea-omarchy-open-in-ide)** | Opens selected files and folders in an installed IDE — VS Code, IntelliJ IDEA, or any app that registers the `IDE` category — through Omarchy's native picker. |
+
+### Other Omarchy projects
+
+- **[omarchy-power-manager](https://github.com/brunomnsilva/omarchy-power-manager)** — Power management and battery controller plugin with smart thresholds, dynamic profile switching and lock-screen integration.
+- **[yt-dlp-firefox](https://github.com/brunomnsilva/yt-dlp-firefox)** — Firefox port of Omarchy's yt-dlp Download Video extension.
 
 ## VS Code Extensions
 
